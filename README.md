@@ -47,7 +47,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/nSjqfVU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This process was done on a Virtual Machine I created through Microsoft Azure. To set up the Domain controller I created a resource group named “Active-DirectoryLab” Then, I created a virtual Network called “Active-DirectoryVnet” Finally, I created the Domain controller virtual machine named “DC-1” which I linked to my resource group and virtual network. I added credentials which I will use to enter this virtual machine through remote desktop. 
 </p>
 <br />
 
