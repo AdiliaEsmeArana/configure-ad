@@ -185,14 +185,6 @@ Setting up Remote Desktop for non-administrative users on Client-1: I logged int
 <img src="https://i.imgur.com/uxR6lgg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/gxzHaJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating many additional users and attempting to log into client-1 with one of the users: I logged into DC-1 as Jane admin. I right clicked Powershell ISE and ran as administrator. I opened my script, added its contents into powershell and clicked “run script” This began creating 10,000 users or employees. To verify this, I went to “Active Directory Users and Computers”> _EMPLOYEES and it had successfully added the new users. I chose a user named “Bane.wef” and used it to log into Client-1. The login was successful. This concludes my tutorial for setting up a domain controller, installing active directory and creating many users to access the domain. 
 </p>
 <br />
