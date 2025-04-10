@@ -131,26 +131,24 @@ Installing Active Directory to DC-1: In Server Manager>Add roles and features>On
 <br />
 
 <p>
-<img src="https://i.imgur.com/gxzHaJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dyDNWpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/gxzHaJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/gxzHaJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7uXLlCw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/jH7VAa8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Joining Client-1 to (mydomain.com): I logged into to Client-1 as the original local admin (labuser) and joined it to the domain. I did this in Settings> System>About>Rename this PC(Advanced)>Computer Name> Change>Member of Domain. I added “mydomain.com” and applied changes. Next, I added Jane Doe’s credentials to join the domain because she is a domain administrator and has permission to join the domain. The computer restarted to apply all changes. To verify that client-1 was part of the domain, I logged into DC-1 and checked in “Active Directory Users and Computers” In computer folder, I saw Client-1 had successfully joined. 
 </p>
 <br />
 
