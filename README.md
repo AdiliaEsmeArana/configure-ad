@@ -124,10 +124,9 @@ Installing Active Directory to DC-1: In Server Manager>Add roles and features>On
 <br />
 
 <p>
-<img src="https://i.imgur.com/gxzHaJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m53X3uk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Creating a Domain Admin User within the Domain: In DC-1, I opened Active Directory Users and Computers (ADUC) and created an Organizational Unit (OU) called “_EMPLOYEES” This folder will be used in the future to store all the employee names I will create through PowerShell. Next, I created another organizational unit (OU) named “_ADMINS” In this folder, I added a user named Jane Doe. In order to make her a domain admin, I added her to the “Domain Admins” Security Group. Next, I logged out and closed the connection to DC-1. Finally, I logged back in as “mydomain.com\jane_admin” to make sure she was successfully added as a domain administrator.
 </p>
 <br />
 
@@ -135,7 +134,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/gxzHaJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq 
 </p>
 <br />
 
