@@ -153,10 +153,10 @@ Joining Client-1 to (mydomain.com): I logged into to Client-1 as the original lo
 <br />
 
 <p>
-<img src="https://i.imgur.com/gxzHaJo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l0Ob3OS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Setting up Remote Desktop for non-administrative users on Client-1: I logged into Client-1 as Jane Doe. I opened Systems> remote desktop>Select users that can remotely access this PC>Add. I added “ domain users” and applied changes. This will now allow me to log into Client-1 as a normal, non-administrative user.
 </p>
 <br />
 
